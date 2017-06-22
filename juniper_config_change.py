@@ -25,5 +25,5 @@ print "Current config differences: "
 print cfg.diff() 
 
  
-23 print "Performing commit" 
-24 cfg.commit() 
+print "Performing commit" 
+cfg.commit() 
