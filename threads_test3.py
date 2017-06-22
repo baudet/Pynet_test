@@ -1,7 +1,7 @@
 #!/usr/bin/env python 
 from netmiko import ConnectHandler 
 import threading 
-from my_devices import device_list as devices 
+from my_devices2 import device_list as devices 
  
  
  
